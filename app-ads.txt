@@ -1,2 +1,2 @@
 # app-ads.txt for Duong Thanh Linh
-# Paste the lines from AppLovin Dashboard > Account > General > App-ads.txt Info below this comment.
+google.com, pub-8095485670392563, DIRECT, f08c47fec0942fa0
